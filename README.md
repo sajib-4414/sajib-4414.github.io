@@ -16,14 +16,14 @@ I worked as a Software Engineer in Binate Solutions Ltd for 3 years. During this
 I learnt about Django, React, JS, Android working in here. Mobile Applications had media,gps, payment functionalities. Django apps had
 postgres Database, Unit testing, Behavior Driven Testing.
 
-####Junior Software Engineer (2016)
+#### Junior Software Engineer (2016)
 
 I worked as a Software Engineer in the Mobile Dev Team. The Apps had 
 firebase, database, File upload, payment , social media signup
 functionalities. My work involved providing support to the
 senior developer completing modules and safely merging my part of the code. 
  
-####Web programming Teaching Assistant (2020-2021)
+#### Web programming Teaching Assistant (2020-2021)
 
 I have been working as a graduate teaching assistant at the University of Regina
 in Web programming course. I take active part in assisting professors
@@ -31,10 +31,10 @@ with teaching JS, Ajax, PHP, Database Fundamentals.
 
 ---
 
-###Education
+### Education
 
-#####Masters in Computer Science: 
+##### Masters in Computer Science: 
 University of Regina, Regina, Saskatchewan, Canada (2019-present)
 
-#####BSc. Engg. in Computer Science & Engineering: 
+##### BSc. Engg. in Computer Science & Engineering: 
 Islamic University of Technology, Dhaka, Bangladesh (2011-2015)
