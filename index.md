@@ -20,6 +20,7 @@ learn about Django CMS and Templates.
 
 This project was developed to learn about Django Rest framework with generic views. Here I have used 
 DRF generic views and mixins.
+
 ---
 [Django Tox Integration](https://github.com/sajib-4414/tox-learning-introduction)
 
@@ -33,6 +34,7 @@ where the project testing and code formatting options can be specified.
 
 This project was developed to learn about mocking objects, database.
 I used libraries to mock database, request, objects. I also used python fixtures for reusing objects.
+
 ---
 [Django Todo App with Oath2](https://github.com/sajib-4414/django-todo-oauth2)
 
