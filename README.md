@@ -1,51 +1,40 @@
-## Developer Portfolio Landing Page Template
+## Shamsul Arefin's github page
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+I am a Science Masters student at the University of Regina. I like
+to solve problems and learn new things. I previously worked
+for 3 years in Mobile application and Django framework. I am really
+enthusiastic to learn more about scaleable back-end development
+and deployment.
 
-<img src="images/demo.gif?raw=true"/>
-
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+### Experiences
 ___
+####Software Engineer (2016-2019)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+I worked as a Software Engineer in Binate Solutions Ltd for 3 years. During this time I worked with 6 Android and  Python projects.
+I learnt about Django, React, JS, Android working in here. Mobile Applications had media,gps, payment functionalities. Django apps had
+postgres Database, Unit testing, Behavior Driven Testing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+####Junior Software Engineer (2016)
 
-### Markdown
+I worked as a Software Engineer in the Mobile Dev Team. The Apps had 
+firebase, database, File upload, payment , social media signup
+functionalities. My work involved providing support to the
+senior developer completing modules and safely merging my part of the code. 
+ 
+####Web programming Teaching Assistant (2020-2021)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have been working as a graduate teaching assistant at the University of Regina
+in Web programming course. I take active part in assisting professors
+with teaching JS, Ajax, PHP, Database Fundamentals.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+###Education
 
-- Bulleted
-- List
+#####Masters in Computer Science: 
+University of Regina, Regina, Saskatchewan, Canada (2019-present)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+#####BSc. Engg. in Computer Science & Engineering: 
+Islamic University of Technology, Dhaka, Bangladesh (2011-2015)
