@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I am a Science Masters student at the University of Regina. I like
+I am a Computer Science Masters student at the University of Regina. I like
 to solve problems and learn new things. I previously worked
 for 3 years in Mobile application and Django framework. I am really
 enthusiastic to learn more about scaleable back-end development
