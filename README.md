@@ -10,7 +10,7 @@ and deployment.
 
 ### Experiences
 ___
-####Software Engineer (2016-2019)
+#### Software Engineer (2016-2019)
 
 I worked as a Software Engineer in Binate Solutions Ltd for 3 years. During this time I worked with 6 Android and  Python projects.
 I learnt about Django, React, JS, Android working in here. Mobile Applications had media,gps, payment functionalities. Django apps had
