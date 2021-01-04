@@ -43,7 +43,6 @@ This project was developed to learn about Oath2 in Django.
 ### Android project repositories
 
 - [Alarm App](https://github.com/sajib-4414/AlarmApp2)
-- [Todo App with Kotlin](https://github.com/sajib-4414/KotlinTodoApp)
 - [Vat converter](https://github.com/sajib-4414/VatConverter)
 
 
