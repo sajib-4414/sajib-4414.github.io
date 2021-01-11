@@ -6,7 +6,7 @@
 
 [Technoglogy Blog App Back-End with DRF](https://github.com/sajib-4414/BlogApp-BackEnd)
 
-A REST Back-End built with Django Rest framework. PostGres Database will be used for this project. It also contains Unit tests.
+A REST Back-End built with Django Rest framework. PostGres Database is be used for this project. It also contains Unit tests.
 
 Features: Token Based authentication, creation of user profile with profile image. Users can create post, comment on it. All of these entities are able to update
 and delete with corresponding Endpoints.
