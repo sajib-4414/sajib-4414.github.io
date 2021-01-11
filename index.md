@@ -4,22 +4,17 @@
 
 ### Django projects (repositories)
 
-[TODO App Back-End with Auth](https://github.com/sajib-4414/DRF-TodoList)
+[Technoglogy Blog App Back-End with DRF](https://github.com/sajib-4414/BlogApp-BackEnd)
 
-This project was done with Django Rest Framework to create a simple TodoList App. It allows the user to sign up and login and create todos.
-Users can also update their remind me date, due date, is the todo done requesting the back-end.
+A REST Back-End built with Django Rest framework. PostGres Database will be used for this project. It also contains Unit tests.
 
----
-[Django CMS Blog App](https://github.com/sajib-4414/BlogAppWIthDjango1_10)
-
-A blog web application built with Django CMS. The purpose was to
-learn about Django CMS and Templates.
+Features: Token Based authentication, creation of user profile with profile image. Users can create post, comment on it. All of these entities are able to update
+and delete with corresponding Endpoints.
 
 ---
-[Blog App Back-End with generic Views](https://github.com/sajib-4414/django-rest-with-class-based-views)
+[TODO App Back-End with DRF](https://github.com/sajib-4414/DRF-TodoList)
 
-This project was developed to learn about Django Rest framework with generic views. Here I have used 
-DRF generic views and mixins.
+This project was done with Django Rest Framework to create a simple TodoList App. It has basic authentication to create todo items. It allows the user to sign up and login and create todos. Users can also update their remind me date, due date, is the todo done requesting the back-end.
 
 ---
 [Django Tox Integration](https://github.com/sajib-4414/tox-learning-introduction)
