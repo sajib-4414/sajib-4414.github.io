@@ -2,7 +2,7 @@
 
 ---
 
-### Django projects (repositories)
+### Python/Django projects (repositories)
 
 [Technoglogy Blog App Back-End with DRF](https://github.com/sajib-4414/BlogApp-BackEnd)
 
