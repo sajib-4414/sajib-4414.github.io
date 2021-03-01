@@ -17,6 +17,13 @@ and delete with corresponding Endpoints.
 This project was done with Django Rest Framework to create a simple TodoList App. It has basic authentication to create todo items. It allows the user to sign up and login and create todos. Users can also update their remind me date, due date, is the todo done requesting the back-end.
 
 ---
+[Emotion Recognition with NLP BERT Model](https://github.com/sajib-4414/Emotion-Classification-NLP-BERT)
+
+This project was done for understanding the popular NLP transfer model BERT introduced by Google in 2018. In this project, I have used BERT and softmax activation function
+function to achieve multi class classification with BERT. Pre-trained BERT model is fined tuned with softmax activation in the outer layer and trained with emotion data.
+After fine tuning, the classifier model can recognize the emotion of a given small text.
+
+---
 [Django Tox Integration](https://github.com/sajib-4414/tox-learning-introduction)
 
 This project was done with Django and Tox automated testing
